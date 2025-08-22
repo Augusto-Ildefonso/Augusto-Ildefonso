@@ -14,9 +14,3 @@ And the following tools/frameworks:
   </a>
 </p>
 <br>
-But I also worked with:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,r,latex,md,linux,arch,ubuntu,clion,pycharm,webstorm,sublime&theme=light" />
-  </a>
-</p>
