@@ -3,7 +3,7 @@
 Currently, I use the following Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,c&theme=light" />
   </a>
 </p>
 <br>
