@@ -1,16 +1,10 @@
-# Hey there! I'm Augusto
+![Banner](banner.svg)
 
-Currently, I use the following Languages:
+I'm a computer science student at ICMC-USP.
+
+These are the technologies I'm currently working with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,react&theme=light" />
   </a>
 </p>
-<br>
-And the following tools/frameworks:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,git,github,figma,mongodb,vscode,windows&theme=light" />
-  </a>
-</p>
-<br>
