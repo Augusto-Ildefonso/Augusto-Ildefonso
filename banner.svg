@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 800 250" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Fundo Principal (Primeiro tom de azul) -->
+  <rect width="800" height="250" fill="#0052D4"/>
+
+  <!-- Ondas Inferiores (Segundo tom de azul com opacidades para dar profundidade) -->
+  <path d="M0,170 Q250,230 550,160 T800,190 L800,250 L0,250 Z" fill="#001F3F" fill-opacity="0.4"/>
+  <path d="M0,210 C200,180 450,240 800,170 L800,250 L0,250 Z" fill="#001F3F" fill-opacity="0.9"/>
+
+  <!-- Conteúdo de Texto e Estilo -->
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          color: #FFFFFF;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          height: 250px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          /* Ajuste para o texto não ficar muito em cima das ondas */
+          padding-bottom: 20px; 
+        }
+        h1 {
+          margin: 0;
+          font-size: 52px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+        }
+      </style>
+      
+      <div class="container">
+        <h1>Augusto Ildefonso</h1>
+      </div>
+      
+    </div>
+  </foreignObject>
+</svg>
